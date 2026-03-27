@@ -30074,7 +30074,7 @@ Camera:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 8400000, guid: 36719708400105940bc366304702c018, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: 39ccad22050147747b6e904dc85f5834, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
@@ -30128,6 +30128,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GameIsPaused: 0
   pauseMenuUI: {fileID: 83646028}
+  scriptsToDisable:
+  - {fileID: 1391995568}
 --- !u!1 &964861591 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5093178996878016270, guid: 2b85d8d579235c245ad47fc447b2cbff, type: 3}
