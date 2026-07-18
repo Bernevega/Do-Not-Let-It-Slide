@@ -52139,22 +52139,22 @@ MonoBehaviour:
   speed: 8
   runSpeed: 8
   sprintSpeed: 8
-  crouchSpeed: 5
-  airSpeedMultiplier: 0.1
+  crouchSpeed: 4
+  airSpeedMultiplier: 0.6
   climbSpeed: 5
-  normalGravity: -8
-  wallRunGravity: -5
-  jumpHeight: 3.5
-  slideSpeedIncrease: 1
-  wallRunSpeedIncrease: 1
-  slideSpeedDecrease: 1.5
-  wallRunSpeedDecrease: 1.5
+  normalGravity: -10
+  wallRunGravity: -4
+  jumpHeight: 2.5
+  slideSpeedIncrease: 1.2
+  wallRunSpeedIncrease: 1.2
+  slideSpeedDecrease: 1
+  wallRunSpeedDecrease: 1
   maxSlideTimer: 20
   maxClimbTimer: 2
-  maxWallJumpTimer: 0.1
+  maxWallJumpTimer: 0.25
   playerCamera: {fileID: 963194227}
   specialFov: 60
-  cameraChangeTime: 20
+  cameraChangeTime: 15
   wallRunTilt: 15
   tilt: 0
 --- !u!114 &1391995568
